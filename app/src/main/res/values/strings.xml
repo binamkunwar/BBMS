@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BBMS</string>
+    <string name="btn1">Donate</string>
+    <string name="btn2"> All Donar</string>
+    <string name="btn3">Admin Login</string>
+</resources>
